@@ -16,6 +16,7 @@ Python (Numpy,Pandas,Matplotlib,Seaborn,Plotly), SQL
 
 ## Portfolio Table of Contents
 1.[Data Extraction](#extraction)
+2.[Courses]{#courses)
 
 
 
@@ -23,7 +24,9 @@ Python (Numpy,Pandas,Matplotlib,Seaborn,Plotly), SQL
 ## <a href=https://github.com/chongjunn-tech/webscraping>1.Data Extraction</a>
 - Experimented with webscraping of static websites for data extraction
   
-
+<a id='courses'></a>
+## <a href=https://github.com/chongjunn-tech/webscraping>2. Courses</a>
+- This repository documents my learning journey into data analytics
 
 
 
