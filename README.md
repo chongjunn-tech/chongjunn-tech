@@ -16,6 +16,7 @@ Python (Numpy,Pandas,Matplotlib,Seaborn,Plotly), SQL
 
 ## Portfolio Table of Contents
 1.[Data Extraction](#extraction)
+
 2.[Courses]{#courses)
 
 
