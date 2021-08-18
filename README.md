@@ -12,7 +12,8 @@
 
   
 ## 🛠 Skills
-Python (Numpy,Pandas,Matplotlib,Seaborn,Plotly), SQL
+- Python (Numpy,Pandas,Matplotlib,Seaborn,Plotly)
+- SQL
 
 ## Portfolio Table of Contents
 1.[Data Extraction](#extraction)
