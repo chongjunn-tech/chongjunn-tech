@@ -27,8 +27,8 @@
 - Experimented with webscraping of static websites for data extraction
   
 <a id='courses'></a>
-## <a href=https://github.com/chongjunn-tech/webscraping>2. Courses</a>
-- This repository documents my learning journey into data analytics
+## <a href=https://github.com/chongjunn-tech/data-analyst-journey>2. Courses</a>
+- This repository documents my learning journey where I take up courses in order to pivot into the data analytics field
 
 
 
