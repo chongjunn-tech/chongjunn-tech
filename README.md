@@ -13,7 +13,9 @@
   
 ## 🛠 Skills
 - Python (Numpy,Pandas,Matplotlib,Seaborn,Plotly)
+- [Tableau Desktop Specialist](https://www.credly.com/badges/c11bc2e5-4f23-42c3-93d5-ba06c4b782cc/public_url)
 - SQL
+
 
 ## Portfolio Table of Contents
 1.[Data Extraction](#extraction)
