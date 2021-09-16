@@ -22,6 +22,8 @@
 
 2.[Courses](#courses)
 
+3.[SGDistanceChecker](#SGDistanceChecker)
+
 
 
 <a id='extraction'></a>
@@ -32,6 +34,11 @@
 ## <a href=https://github.com/chongjunn-tech/data-analyst-journey>2. Courses</a>
 - This repository documents my learning journey where I take up courses in order to pivot into the data analytics field
 
+<a id='SGDistanceChecker'></a>
+## <a href=https://github.com/chongjunn-tech/SGDistanceChecker>3. SGDistanceChecker</a>
+- This repository documents project to take a directory of postal codes and map out the haversine distance to a reference postal code
+- This is my first attempt in creating a Python Program where it takes in user's input (reference postal code) and output a CSV file in the local directory
+- Some challenges faced in the project include selecting the API that can provide latitude and longitude from a provided postal code
 
 
 
