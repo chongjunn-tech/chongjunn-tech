@@ -18,11 +18,11 @@
 
 
 ## Portfolio Table of Contents
-1. [Web Scraping](#webscraping)
+- [Web Scraping](#webscraping)
 
-2. [Courses](#courses)
+- [Courses](#courses)
 
-3. [Mini-projects](#Mini-projects)
+- [Mini-projects](#Mini-projects)
 
 
 
@@ -31,15 +31,18 @@
 - Experimented with webscraping using BeautifulSoup and Selenium
 - Projects includes:
   - MOH List of Drugs eligible for Drug Subsidies and Schemes
-  - Licensed Healthcare Institutions (HCI) List   
+  - Licensed Healthcare Institutions (HCI) List
+  -  Singapore Medical Council (SMC) List   
+
+<a id='Mini-projects'></a>
+## Mini-projects
+-<a href=https://github.com/chongjunn-tech/SGDistanceChecker>SGDistanceChecker</a>
   
 <a id='courses'></a>
 ## <a href=https://github.com/chongjunn-tech/data-analyst-journey>2. Courses</a>
 - This repository documents my learning journey where I take up courses in order to pivot into the data analytics field
 
-<a id='Mini-projects'></a>
-## Mini-projects
--<a href=https://github.com/chongjunn-tech/SGDistanceChecker>SGDistanceChecker</a>
+
 
 
 
