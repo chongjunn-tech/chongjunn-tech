@@ -18,7 +18,7 @@
 
 
 ## Portfolio Table of Contents
-1.[Data Extraction](#extraction)
+1.[Web Scraping](#webscraping)
 
 2.[Courses](#courses)
 
@@ -26,8 +26,8 @@
 
 
 
-<a id='extraction'></a>
-## <a href=https://github.com/chongjunn-tech/webscraping>1.Data Extraction</a>
+<a id='webscraping'></a>
+## <a href=https://github.com/chongjunn-tech/webscraping>1.Web Scraping</a>
 - Experimented with webscraping of static websites for data extraction using Beautiful Soup
   
 <a id='courses'></a>
