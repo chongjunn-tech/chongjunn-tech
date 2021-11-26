@@ -28,7 +28,10 @@
 
 <a id='webscraping'></a>
 ## <a href=https://github.com/chongjunn-tech/webscraping>1.Web Scraping</a>
-- Experimented with webscraping of static websites for data extraction using Beautiful Soup
+- Experimented with webscraping using BeautifulSoup and Selenium
+- Projects includes:
+  - MOH List of Drugs eligible for Drug Subsidies and Schemes
+  - Licensed Healthcare Institutions (HCI) List   
   
 <a id='courses'></a>
 ## <a href=https://github.com/chongjunn-tech/data-analyst-journey>2. Courses</a>
