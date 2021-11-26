@@ -6,9 +6,14 @@
 -I’m currently working on honing my programming/data analytics skills to pivot a career switch into data analytics.
 
 ## 🌱  Portfolio Table of Contents
+- [Computer Vision](#CV)
 - [Web Scraping](#webscraping)
 - [Mini-projects](#Mini-projects)
 - [Courses](#courses)
+
+<a id='CV'>/a>
+### <a href=>Computer Vision<</a>
+- Experimented with Object Detection problem in Computer Vision
 
 <a id='webscraping'></a>
 ### <a href=https://github.com/chongjunn-tech/webscraping>Web Scraping</a>
