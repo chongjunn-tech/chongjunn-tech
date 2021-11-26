@@ -7,10 +7,8 @@
 
 ## 💬  Portfolio Table of Contents
 - [Web Scraping](#webscraping)
-
-- [Courses](#courses)
-
 - [Mini-projects](#Mini-projects)
+- [Courses](#courses)
 
 <a id='webscraping'></a>
 ### <a href=https://github.com/chongjunn-tech/webscraping>Web Scraping</a>
