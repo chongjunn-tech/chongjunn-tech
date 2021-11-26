@@ -11,8 +11,8 @@
 - [Mini-projects](#Mini-projects)
 - [Courses](#courses)
 
-<a id='CV'>/a>
-### <a href=>Computer Vision<</a>
+<a id='CV'></a>
+### <a href=https://github.com/chongjunn-tech/Computer_Vision>Computer Vision<</a>
 - Experimented with Object Detection problem in Computer Vision
 
 <a id='webscraping'></a>
