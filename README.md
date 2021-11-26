@@ -33,7 +33,7 @@
 - [Tableau Desktop Specialist](https://www.credly.com/badges/c11bc2e5-4f23-42c3-93d5-ba06c4b782cc/public_url)
 - SQL
 
-## 🔗 Links
+## 🔗 Links to other profile
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chong-junn/)
 <br></br>
 [![Tableau](https://img.shields.io/badge/-Tableau-orange)](https://public.tableau.com/app/profile/chong.junn)
