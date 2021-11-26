@@ -1,11 +1,11 @@
 ## 👋 Hello! Welcome to Chong Junn's Github Profile 
 
 ## 🚀 About Me
-- 🔭 I'm a aspiring data analyst with a background in pharmacist.
-- 🌱 My interest in programming/data analytics was sparked when I was working as a Regulatory Affairs Personnel where the use of VBA had enabled me to automate many manual processes at work. 
-- 😄I’m currently working on honing my programming/data analytics skills to pivot a career switch into data analytics.
+- I'm a aspiring data analyst with a background in pharmacist.
+- My interest in programming/data analytics was sparked when I was working as a Regulatory Affairs Personnel where the use of VBA had enabled me to automate many manual processes at work. 
+-I’m currently working on honing my programming/data analytics skills to pivot a career switch into data analytics.
 
-## 💬  Portfolio Table of Contents
+## 🌱  Portfolio Table of Contents
 - [Web Scraping](#webscraping)
 - [Mini-projects](#Mini-projects)
 - [Courses](#courses)
