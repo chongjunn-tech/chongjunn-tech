@@ -27,7 +27,7 @@
 
 
 <a id='webscraping'></a>
-## <a href=https://github.com/chongjunn-tech/webscraping>1.Web Scraping</a>
+## <a href=https://github.com/chongjunn-tech/webscraping>Web Scraping</a>
 - Experimented with webscraping using BeautifulSoup and Selenium
 - Projects includes:
   - MOH List of Drugs eligible for Drug Subsidies and Schemes
@@ -36,10 +36,10 @@
 
 <a id='Mini-projects'></a>
 ## Mini-projects
--<a href=https://github.com/chongjunn-tech/SGDistanceChecker>SGDistanceChecker</a>
+- <a href=https://github.com/chongjunn-tech/SGDistanceChecker>SGDistanceChecker</a>
   
 <a id='courses'></a>
-## <a href=https://github.com/chongjunn-tech/data-analyst-journey>2. Courses</a>
+## <a href=https://github.com/chongjunn-tech/data-analyst-journey>Courses</a>
 - This repository documents my learning journey where I take up courses in order to pivot into the data analytics field
 
 
