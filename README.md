@@ -27,6 +27,7 @@
 <a id='courses'></a>
 ### <a href=https://github.com/chongjunn-tech/data-analyst-journey>Courses</a>
 - This repository documents my learning journey where I take up courses in order to pivot into the data analytics field
+
 ## 🛠 Skills
 - Python (Numpy,Pandas,Matplotlib,Seaborn,Plotly)
 - [Tableau Desktop Specialist](https://www.credly.com/badges/c11bc2e5-4f23-42c3-93d5-ba06c4b782cc/public_url)
@@ -34,6 +35,8 @@
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chong-junn/)
+<br></br>
+[![Tableau](https://img.shields.io/badge/-Tableau-orange)](https://public.tableau.com/app/profile/chong.junn)
 
 
 
