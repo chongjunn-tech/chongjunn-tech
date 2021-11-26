@@ -20,6 +20,7 @@
 
 <a id='Mini-projects'></a>
 ### Mini-projects
+Various mini-projects that I have took on to practise/learn programming
 - <a href=https://github.com/chongjunn-tech/SGDistanceChecker>SGDistanceChecker</a>
   
 <a id='courses'></a>
