@@ -6,10 +6,16 @@
 -I’m currently working on honing my programming/data analytics skills to pivot a career switch into data analytics.
 
 ## 🌱  Portfolio Table of Contents
+- [Machine Learning Pipeline](#mlp)
 - [Computer Vision](#CV)
 - [Web Scraping](#webscraping)
 - [Mini-projects](#Mini-projects)
 - [Courses](#courses)
+
+<a id='mlp'></a>
+### <a href=https://github.com/chongjunn-tech/MLP>MLP</a>
+- This repo showcase a simple Machine Learning Pipeline (MLP) that I have built which process dataset and feed into various machine learning algorithm(s) namely Logistic Regression, K-Nearest neighbors,Support Vector Machine, Random Forest Classifer, Adaboost and XGBoost
+- The pipeline is easily configurable to enable easy experimentation of different algorithms and parameters through config.yml file
 
 <a id='CV'></a>
 ### <a href=https://github.com/chongjunn-tech/Computer_Vision>Computer Vision</a>
