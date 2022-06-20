@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - I'm a aspiring data analyst with a background in pharmacist.
 - My interest in programming/data analytics was sparked when I was working as a Regulatory Affairs Personnel where the use of VBA had enabled me to automate many manual processes at work. 
--I’m currently working on honing my programming/data analytics skills to pivot a career switch into data analytics.
+- I’m currently working on honing my programming/data analytics skills to pivot a career switch into Machine Learning/ Artificial Intelligience
 
 ## 🌱  Portfolio Table of Contents
 - Machine Learning Pipeline
