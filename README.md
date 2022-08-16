@@ -1,19 +1,28 @@
 ## 👋 Hello! Welcome to Chong Junn's Github Profile 
 
 ## 🚀 About Me
-- I'm a aspiring data analyst with a background in pharmacist.
+- I'm a aspiring ML/Data Engineer with a background in pharmacist.
 - My interest in programming/data analytics was sparked when I was working as a Regulatory Affairs Personnel where the use of VBA had enabled me to automate many manual processes at work. 
-- I’m currently working on honing my programming/data analytics skills to pivot a career switch into Machine Learning/ Artificial Intelligience
+- I’m currently attending Batch #10 of AI Apprenticeship Programme (April 2022 - Jan 2023)
 
 ## 🌱  Portfolio Table of Contents
-- Machine Learning Pipeline
+- Natural Language Processing (NLP)
+- Classification Problem
 - Computer Vision
 - Web Scraping
 - Mini-projects
 - Courses
 
-<a id='mlp'></a>
-### <a href=https://github.com/chongjunn-tech/MLP>Machine Learning Pipeline (MLP)</a>
+<a id='nlp'></a>
+###  Natural Language Processing (NLP) 
+
+[Project Jokebot](https://github.com/chongjunn-tech/project-jokebot)
+- Project jokebot is a simple web-based application (using streamlit app) where it allows aspiring comedians to understand the 'joke rating' of their jokes.
+- Created an interactive front-end interface powered with streamlit to allow users to understand the humor rating of their jokes
+- Deployed an API (FASTAPI) by using Docker Containerization. The API leveraged a pre-trained SOTA BERT model for humor detection.
+
+### Classification Problem
+<a href=https://github.com/chongjunn-tech/MLP>Machine Learning Pipeline (MLP)</a>
 - This repo showcase a simple Machine Learning Pipeline (MLP) that I have built which process dataset and feed into various machine learning algorithm(s) namely Logistic Regression, K-Nearest neighbors,Support Vector Machine, Random Forest Classifer, Adaboost and XGBoost
 - The pipeline is easily configurable to enable easy experimentation of different algorithms and parameters through config.yml file
 - Simple streamlit App was used to allow user interactivity
