@@ -51,6 +51,7 @@ Various mini-projects that I have took on to practise/learn programming
 
 ## 🛠 Skills
 - Python (Numpy,Pandas,Matplotlib,Seaborn,Plotly)
+- [Terraform](https://www.credly.com/badges/ec9321d8-3db8-4332-aa11-348a8521605c/public_url)
 - [Tableau Desktop Specialist](https://www.credly.com/badges/c11bc2e5-4f23-42c3-93d5-ba06c4b782cc/public_url)
 - SQL
 
