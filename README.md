@@ -1,7 +1,7 @@
 ## 👋 Hello! Welcome to Chong Junn's Github Profile 
 
 ## 🚀 About Me
-- I'm a aspiring ML/Data Engineer with a background in pharmacist.
+- I'm a aspiring ML/Data Engineer
 - My interest in programming/data analytics was sparked when I was working as a Regulatory Affairs Personnel where the use of VBA had enabled me to automate many manual processes at work. 
 - I’m currently attending Batch #10 of AI Apprenticeship Programme (April 2022 - Jan 2023)
 
