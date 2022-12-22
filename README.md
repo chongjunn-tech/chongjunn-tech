@@ -6,16 +6,20 @@
 - I’m currently attending Batch #10 of AI Apprenticeship Programme (April 2022 - Jan 2023)
 
 ## 🌱  Portfolio Table of Contents
-- Data Engineering 
-- Natural Language Processing (NLP)
-- Classification Problem
-- Computer Vision
-- Web Scraping
-- Mini-projects
-- Courses
+- [Data Engineering](#data-engineering)
+- [Natural Language Processing](#natural-language-processing-nlp)
+- [Classification Problem](#classification-problem)
+- [Computer Vision](#computer-vision)
+- [Web Scraping](#web-scraping)
+- [Mini-projects](#mini-projects)
+- [Courses](#courses)
 
-<a id='nlp'></a>
-###  Natural Language Processing (NLP) 
+### Data Engineering
+- [data-pipeline-stack-overflow-data](https://github.com/chongjunn-tech/data-pipeline-stack-overflow-data)
+  - Automated pipeline to ingest two tables (StackOverflow posts and StackOverflow users) to generate a summary table (JSON file) and a tag analysis table (parquet file)
+  - Allows users to input their pipeline_choice (pyspark or pandas)
+
+### Natural Language Processing (NLP) 
 
 [Project Jokebot](https://github.com/chongjunn-tech/project-jokebot)
 - Project jokebot is a simple web-based application (using streamlit app) where it allows aspiring comedians to understand the 'joke rating' of their jokes.
