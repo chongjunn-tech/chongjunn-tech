@@ -6,6 +6,7 @@
 - I’m currently attending Batch #10 of AI Apprenticeship Programme (April 2022 - Jan 2023)
 
 ## 🌱  Portfolio Table of Contents
+- Data Engineering 
 - Natural Language Processing (NLP)
 - Classification Problem
 - Computer Vision
